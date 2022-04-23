@@ -259,30 +259,39 @@ ul.list02 li{
 	 background:url(Pictures/banner.jpg) no-repeat;
  }
  .logo_img h1{
-     text-align: right;
+     text-align: center;
      font-size: 28px;
      color: #ffffff;
      padding-right: 10px;
-     padding-top: 10px;
  }
 .logo_img_span{
-    text-align: right;
-    font-size: 21px;
+    text-align: center;
+    font-size: 16px;
     display: block;
     font-weight: bold;
     color: #ffffff;
 	/*text-shadow:2px 3px 2px #000;*/
-	background-color: rgba(0,0,0,0.4);
+	/*background-color: rgba(0,0,0,0.4);*/
     padding-right: 10px;
     padding-top: 1px;
 }
 .logo_img_span1{
-    text-align: right;
+    text-align: center;
     font-size: 21px;
     display: block;
-    margin-top: 154px;
+    /*margin-top: 150px;
 	/*text-shadow:2px 3px 2px #000;*/
-	background-color: rgba(0,0,0,0.4);
+	/*background-color: rgba(0,0,0,0.4);*/
+    font-weight: bold;
+    color: #ffffff;
+    padding-right: 10px;
+}
+.logo_img_span2{
+    text-align: center;
+    font-size: 16px;
+    display: block;
+	/*text-shadow:2px 3px 2px #000;*/
+	/*background-color: rgba(0,0,0,0.4);*/
     font-weight: bold;
     color: #ffffff;
     padding-right: 10px;
@@ -303,16 +312,7 @@ ul.list02 li{
     font-size: 16px;
     padding: 0px 10px 0px 0px;
 }
-.logo_img_span2{
-    text-align: right;
-	/*text-shadow:2px 3px 2px #000;*/
-	background-color: rgba(0,0,0,0.4);
-    display: block;
-    font-size: 16px;
-    color: #ffffff;
-    padding-right: 10px;
-    padding-top: 1px;
-}
+
 
 @charset "utf-8";
 /*--------------------------------------------------------------------
