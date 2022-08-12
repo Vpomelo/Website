@@ -175,7 +175,7 @@ h2{
 	border-bottom:1px solid #483d8b;
 	font-weight:bold;
 	line-height:1;
-	margin:30px 0 15px -25px;
+	margin:25px 0 15px -25px;
 	padding:2px 0 4px 10px;
 	color:#483d8b;
 	font-size:108%;
@@ -183,7 +183,7 @@ h2{
 h3{
 	font-weight:normal;
     color: #4A61AD;
-	margin-top:20px;
+	margin-top:25px;
 }
 /*--------------------------------------------------------------------
 　トップへ戻るボタン
