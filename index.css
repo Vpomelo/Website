@@ -208,7 +208,7 @@ ul.list01{
     font-size:90%;
 }
 ul.list01 li{
-	list-style:circle ;
+	list-style:solide circle ;
 }
 /*--------------------------------------------------------------------
 　リスト　白点バージョン
@@ -217,7 +217,7 @@ ul.list02{
 	margin:0 15px 0 30px;
 }
 ul.list02 li{
-	list-style:circle;
+	list-style:solide circle;
 }
 /*--------------------------------------------------------------------
 　書式  枠線囲み
