@@ -60,7 +60,7 @@ li{
 --------------------------------------------------------------------*/
 body{
 	background: #D3D3D3;
-	margin: 0;
+	margin: 2;
 	padding: 0;
 	text-align: left;
 	color: #333333;
@@ -100,10 +100,10 @@ a:hover{
 	width: 890px;
 	background: #FFFFFF;
 	border:1px solid #CECFCE;
-	margin:20px auto 0;
+	margin:20px auto 2px;
 }
 #header{
-	margin:20px auto 0;
+	margin:20px auto 2px;
 	width:850px;
 }
 #contents{
