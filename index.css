@@ -78,7 +78,7 @@ body{
 /* 段落の設定 */
 p{
 	font-size:90%;
-	margin:10px 10px;
+	margin:8px 10px;
 	padding:0;
 }
 /*--------------------------------------------------------------------
@@ -175,7 +175,7 @@ h2{
 	border-bottom:1px solid #483d8b;
 	font-weight:bold;
 	line-height:1;
-	margin:25px 2px 15px -25px;
+	margin:30px 5px 15px -25px;
 	padding:2px 0 4px 10px;
 	color:#483d8b;
 	font-size:108%;
@@ -199,7 +199,6 @@ ul.list00{
 }
 ul.list00 li{
 	list-style:none;
-	
 }
 /*--------------------------------------------------------------------
 　リスト　黒点バージョン
@@ -209,7 +208,7 @@ ul.list01{
     font-size:90%;
 }
 ul.list01 li{
-	list-style:solid ;
+	list-style:circle ;
 }
 /*--------------------------------------------------------------------
 　リスト　白点バージョン
@@ -218,7 +217,7 @@ ul.list02{
 	margin:0 15px 0 30px;
 }
 ul.list02 li{
-	list-style:solid;
+	list-style:circle;
 }
 /*--------------------------------------------------------------------
 　書式  枠線囲み
@@ -369,8 +368,6 @@ a:hover {
 	/* マウスオーバー時の背景色 */
     text-decoration: underline;
 }
-
-
 
 
 
