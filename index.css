@@ -26,10 +26,10 @@ div{
 	zoom: 1;
 }
 ol,ul{
-	list-style: none;
+	list-style: circle;
 }
 li{
-	list-style-type: none;
+	list-style-type: circle;
 }
 
 /*--------------------------------------------------------------------
@@ -198,7 +198,7 @@ ul.list00{
 	margin:0 15px;
 }
 ul.list00 li{
-	list-style:none;
+	list-style:circle;
 }
 /*--------------------------------------------------------------------
 　リスト　黒点バージョン
