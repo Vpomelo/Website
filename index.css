@@ -130,7 +130,7 @@ ul#menu li{
 	width: 110px;
 	*/
 	text-align: center;
-	font-size:110%;
+	font-size:105%;
 }
 ul#menu li a,ul#menu li.on{
 	display: block;
