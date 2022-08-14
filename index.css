@@ -26,10 +26,10 @@ div{
 	zoom: 1;
 }
 ol,ul{
-	list-style: circle;
+	list-style: solid circle;
 }
 li{
-	list-style-type: circle;
+	list-style-type: solid circle;
 }
 
 /*--------------------------------------------------------------------
@@ -208,7 +208,7 @@ ul.list01{
     font-size:90%;
 }
 ul.list01 li{
-	list-style:circle ;
+	list-style: solid circle ;
 }
 /*--------------------------------------------------------------------
 　リスト　白点バージョン
