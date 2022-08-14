@@ -111,7 +111,7 @@ a:hover{
 	/* 本文余白 見出し余白はネガティブマージンで設定する*/
 	padding:20px 70px 0;
 	margin-bottom:20px;
-	font-size:120%;
+	font-size:110%;
 }
 /*--------------------------------------------------------------------
 　メニュー
@@ -130,7 +130,7 @@ ul#menu li{
 	width: 110px;
 	*/
 	text-align: center;
-	font-size:100%;
+	font-size:120%;
 }
 ul#menu li a,ul#menu li.on{
 	display: block;
@@ -178,7 +178,7 @@ h2{
 	margin:30px 5px 15px -25px;
 	padding:2px 0 4px 10px;
 	color:#483d8b;
-	font-size:120%;
+	font-size:110%;
 }
 h3{
 	font-weight:normal;
