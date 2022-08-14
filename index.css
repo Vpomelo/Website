@@ -198,7 +198,8 @@ ul.list00{
 	margin:0 15px;
 }
 ul.list00 li{
-	list-style:none;
+	list-style:solid circle ;
+	
 }
 /*--------------------------------------------------------------------
 　リスト　黒点バージョン
@@ -208,7 +209,7 @@ ul.list01{
     font-size:90%;
 }
 ul.list01 li{
-	list-style: circle ;
+	list-style:solid circle ;
 }
 /*--------------------------------------------------------------------
 　リスト　白点バージョン
@@ -217,7 +218,7 @@ ul.list02{
 	margin:0 15px 0 30px;
 }
 ul.list02 li{
-	list-style: circle;
+	list-style:solid circle;
 }
 /*--------------------------------------------------------------------
 　書式  枠線囲み
